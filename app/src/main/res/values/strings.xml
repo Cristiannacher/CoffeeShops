@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coffee Shops</string>
+    <string name="Cafe1">Antico Caffe Greco</string>
+    <string name="Cafe2">Coffe Room</string>
+    <string name="Cafe3">Coffee Ibiza</string>
+    <string name="Cafe4">Pudding Coffe Shop</string>
+    <string name="Cafe5">L\'Express</string>
+    <string name="Cafe6">Coffee Corner</string>
+    <string name="Cafe7">Sweet Cup</string>
+    <string name="Cafe1Direccion">St.Italy, Rome</string>
+    <string name="Cafe2direccion">St. Germany, Berlin</string>
+    <string name="Cafe3Direccion">St. Colon, Madrid</string>
+    <string name="Cafe4Direccion">St. Diagonal, Barcelona</string>
+    <string name="Cafe5Direccion">St. Picadilly Circus, London</string>
+    <string name="Cafe6Direccion">St. Angel Guimera, Valencia</string>
+    <string name="Cafe7Direccion">St.Inkerstraat Amsterdam</string>
+
+</resources>
